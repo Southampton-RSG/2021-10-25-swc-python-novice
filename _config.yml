@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/Southampton-RSG/2021-10-25-swc-python-novice"
-workshop_site   : "http://Southampton-RSG.github.io/2021-10-25-swc-python-novice"
+workshop_repo   : "https://github.com/Southampton-RSG/2021-10-25-swc-python-novice"
+workshop_site   : "https://southampton-rsg.github.io/2021-10-25-swc-python-novice"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
