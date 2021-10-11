@@ -16,11 +16,7 @@ But the two most important things are to use whatever language your colleagues a
 
 ## Data
 Create a directory to work in. Save these three files to the directory, we will use them late on.
-* [sc_climate_data.csv](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/sc_climate_data.csv)
-* [sc_climate_data_10.csv](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/sc_climate_data_10.csv)
-* [sc_climate_data_1000.csv](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/sc_climate_data_1000.csv)
-
-Tip for each file i
+* [Data](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/)
 
 ## Topics
 
