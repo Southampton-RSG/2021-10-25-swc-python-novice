@@ -14,6 +14,15 @@ Our real goal isn’t just to teach you Python, but to teach you the basic conce
 
 But the two most important things are to use whatever language your colleagues are using, so that you can share your work with them easily, and to use that language well.
 
+## Data
+Create a directory to work in. Save these three files to the directory, we will use them late on.
+
+* [sc_climate_data.csv](./data/sc_climate_data.csv)
+* [sc_climate_data_10.csv](./data/sc_climate_data_10.csv)
+* [sc_climate_data_1000.csv](./data/sc_climate_data_1000.csv)
+
+Tip for each file i
+
 ## Topics
 
 *  [Python basics: Running the Python interpreter and Variables](01-basic.html)
