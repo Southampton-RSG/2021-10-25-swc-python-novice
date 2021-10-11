@@ -16,10 +16,9 @@ But the two most important things are to use whatever language your colleagues a
 
 ## Data
 Create a directory to work in. Save these three files to the directory, we will use them late on.
-
-* [sc_climate_data.csv](./data/sc_climate_data.csv)
-* [sc_climate_data_10.csv](./data/sc_climate_data_10.csv)
-* [sc_climate_data_1000.csv](./data/sc_climate_data_1000.csv)
+* [sc_climate_data.csv](https://raw.githubusercontent.com/Southampton-RSG/2021-10-25-swc-python-novice/gh-pages/novice/python/data/sc_climate_data.csv)
+* [sc_climate_data_10.csv](https://raw.githubusercontent.com/Southampton-RSG/2021-10-25-swc-python-novice/gh-pages/novice/python/data/sc_climate_data_10.csv)
+* [sc_climate_data_1000.csv](https://raw.githubusercontent.com/Southampton-RSG/2021-10-25-swc-python-novice/gh-pages/novice/python/data/sc_climate_data_1000.csv)
 
 Tip for each file i
 
