@@ -16,7 +16,7 @@ But the two most important things are to use whatever language your colleagues a
 
 ## Data
 Create a directory to work in. Save these three files to the directory, we will use them late on.
-* [Data](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/)
+* [Data](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/&fileName=data)
 
 ## Topics
 
