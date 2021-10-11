@@ -14,9 +14,8 @@ Our real goal isn’t just to teach you Python, but to teach you the basic conce
 
 But the two most important things are to use whatever language your colleagues are using, so that you can share your work with them easily, and to use that language well.
 
-## Data
-Create a directory to work in. Save these three files to the directory, we will use them late on.
-* [Data](https://downgit.github.io/#/home?url=https://github.com/Southampton-RSG/2021-10-25-swc-python-novice/blob/gh-pages/novice/python/data/&fileName=data)
+## Setup
+
 
 ## Topics
 
